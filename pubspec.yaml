@@ -1,7 +1,7 @@
 name: resultados_tjse
 description: "Widget expandivél para inserção de resultados de querys."
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/deborahsales/resultados_tjse
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
