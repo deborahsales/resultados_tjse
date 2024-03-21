@@ -27,7 +27,7 @@ class _ResultadoState extends State<Resultado> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(top: 8, bottom: 8,),
+      padding: const EdgeInsets.only(top: 8,),
       child: Column(
         children: [
           Container(
